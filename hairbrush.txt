@@ -1,0 +1,8 @@
+[bar, huh, sir]
+[bar, sir, huh]
+[briar, hush]
+[huh, bar, sir]
+[huh, sir, bar]
+[hush, briar]
+[sir, bar, huh]
+[sir, huh, bar]
